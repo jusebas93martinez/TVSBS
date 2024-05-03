@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 001| Win Sports+
 http://190.61.43.117:45000/play/a024
+#EXTINF:-1,Win Sports HD
+http://186.148.195.206:8000/play/a00b/index.m3u8
+#EXTINF:-1,Win Sports+
+http://186.148.195.206:8000/play/a070/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://186.148.195.206:8000/play/a04h/index.m3u8
+#EXTINF:0 tvg-chno="0" tvg-name="Win Sports" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTES",Win Sports
+#EXTVLCOPT:http-user-agent=playerlat
+http://dominiopersonal.xyz:25464/playerlat/jUurojJ3M9/98
+#EXTINF:0 tvg-chno="0" tvg-name="Win Sports+" tvg-logo="Logo N/A" tvg-ID="" group-title="DEPORTES",Win Sports+
+#EXTVLCOPT:http-user-agent=playerlat
+http://dominiopersonal.xyz:25464/playerlat/jUurojJ3M9/374
