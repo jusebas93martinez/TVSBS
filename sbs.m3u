@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 001| Win Sports+ inicial
 http://190.61.43.117:45000/play/a024
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 002| Win Sports HD
+#EXTINF:-1 tvg-id="CO | Win Sports1+" tvg-name="CO | Win Sports+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 002| Win Sports HD
 http://186.148.195.206:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 003| Win Sports+ Estable
+#EXTINF:-1 tvg-id="CO | Win Sports2+" tvg-name="CO | Win Sports+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 003| Win Sports+ Estable
 http://186.148.195.206:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 004| Win Sports+ HD
+#EXTINF:-1 tvg-id="CO | Win Sports3+" tvg-name="CO | Win Sports+3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 004| Win Sports+ HD
 http://186.148.195.206:8000/play/a04h/index.m3u8
