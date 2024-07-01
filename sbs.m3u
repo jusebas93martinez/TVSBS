@@ -7,3 +7,502 @@ http://186.148.195.206:8000/play/a00b/index.m3u8
 http://186.148.195.206:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports3+" tvg-name="CO | Win Sports+3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 004| Win Sports+ HD
 http://186.148.195.206:8000/play/a04h/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,Azteca 7
+http://pe.shortgod.com/wow/play.php?id=1
+#EXTINF:-1,Canal 5
+http://pe.shortgod.com/wow/play.php?id=2
+#EXTINF:-1,TUDN
+http://pe.shortgod.com/wow/play.php?id=3
+#EXTINF:-1,Latina
+http://pe.shortgod.com/wow/play.php?id=4
+#EXTINF:-1,America TV
+http://pe.shortgod.com/wow/play.php?id=5
+#EXTINF:-1,Gol Perú
+http://pe.shortgod.com/wow/play.php?id=6
+#EXTINF:-1,Gol TV
+http://pe.shortgod.com/wow/play.php?id=7
+#EXTINF:-1,TNT SPORTS
+http://pe.shortgod.com/wow/play.php?id=9
+#EXTINF:-1,Espn Premium
+http://pe.shortgod.com/wow/play.php?id=10
+#EXTINF:-1,TYC SPORTS
+http://pe.shortgod.com/wow/play.php?id=11
+#EXTINF:-1,FOX SPORTS
+http://pe.shortgod.com/wow/play.php?id=12
+#EXTINF:-1,Fox Sports 2
+http://pe.shortgod.com/wow/play.php?id=13
+#EXTINF:-1,Fox Sports 3
+http://pe.shortgod.com/wow/play.php?id=14
+#EXTINF:-1,Espn Deportes
+http://pe.shortgod.com/wow/play.php?id=15
+#EXTINF:-1,Espn Extra
+http://pe.shortgod.com/wow/play.php?id=16
+#EXTINF:-1,Espn Sur
+http://pe.shortgod.com/wow/play.php?id=17
+#EXTINF:-1,Espn 2 Sur
+http://pe.shortgod.com/wow/play.php?id=18
+#EXTINF:-1,Espn 3 Sur
+http://pe.shortgod.com/wow/play.php?id=19
+#EXTINF:-1,Directv Sports
+http://pe.shortgod.com/wow/play.php?id=20
+#EXTINF:-1,Directv Sports 2
+http://pe.shortgod.com/wow/play.php?id=21
+#EXTINF:-1,Directv Sports Plus
+http://pe.shortgod.com/wow/play.php?id=22
+#EXTINF:-1,Bein La Liga
+http://pe.shortgod.com/wow/play.php?id=23
+#EXTINF:-1,Fox Sports Mexico
+http://pe.shortgod.com/wow/play.php?id=24
+#EXTINF:-1,Fox Sports 2 Mexico
+http://pe.shortgod.com/wow/play.php?id=25
+#EXTINF:-1,Fox Sports 3 Mexico
+http://pe.shortgod.com/wow/play.php?id=26
+#EXTINF:-1,Espn Mexico
+http://pe.shortgod.com/wow/play.php?id=27
+#EXTINF:-1,Espn 2 Mexico
+http://pe.shortgod.com/wow/play.php?id=28
+#EXTINF:-1,Espn 3 Mexico
+http://pe.shortgod.com/wow/play.php?id=29
+#EXTINF:-1,Afizzionados
+http://pe.shortgod.com/wow/play.php?id=30
+#EXTINF:-1,HBO
+http://pe.shortgod.com/wow/play.php?id=31
+#EXTINF:-1,HBO 2
+http://pe.shortgod.com/wow/play.php?id=32
+#EXTINF:-1,Liga 1
+http://pe.shortgod.com/wow/play.php?id=33
+#EXTINF:-1,Liga 1 FHD
+http://pe.shortgod.com/wow/play.php?id=34
+#EXTINF:-1,Directv Sports Fight
+http://pe.shortgod.com/wow/play.php?id=36
+#EXTINF:-1,Star Action MX
+http://pe.shortgod.com/wow/play.php?id=37
+#EXTINF:-1,Peliculas de Accion
+http://pe.shortgod.com/wow/play.php?id=38
+#EXTINF:-1,SPACE
+http://pe.shortgod.com/wow/play.php?id=39
+#EXTINF:-1,MX: Warner Bros TV
+http://pe.shortgod.com/wow/play.php?id=40
+#EXTINF:-1,TNT
+http://pe.shortgod.com/wow/play.php?id=41
+#EXTINF:-1,Star Channel
+http://pe.shortgod.com/wow/play.php?id=42
+#EXTINF:-1,Cinemax
+http://pe.shortgod.com/wow/play.php?id=43
+#EXTINF:-1,Cinecanal
+http://pe.shortgod.com/wow/play.php?id=44
+#EXTINF:-1,Telefe
+http://pe.shortgod.com/wow/play.php?id=45
+#EXTINF:-1,El Trece
+http://pe.shortgod.com/wow/play.php?id=46
+#EXTINF:-1,Distrito Comedia
+http://pe.shortgod.com/wow/play.php?id=47
+#EXTINF:-1,Telemundo Miami
+http://pe.shortgod.com/wow/play.php?id=48
+#EXTINF:-1,History
+http://pe.shortgod.com/wow/play.php?id=49
+#EXTINF:-1,History 2
+http://pe.shortgod.com/wow/play.php?id=50
+#EXTINF:-1,Pasiones
+http://pe.shortgod.com/wow/play.php?id=51
+#EXTINF:-1,Azteca Uno
+http://pe.shortgod.com/wow/play.php?id=52
+#EXTINF:-1,Az Mundo
+http://pe.shortgod.com/wow/play.php?id=53
+#EXTINF:-1,Az Cinema
+http://pe.shortgod.com/wow/play.php?id=54
+#EXTINF:-1,Galavision
+http://pe.shortgod.com/wow/play.php?id=55
+#EXTINF:-1,Tlnovelas
+http://pe.shortgod.com/wow/play.php?id=56
+#EXTINF:-1,Las Estrellas
+http://pe.shortgod.com/wow/play.php?id=57
+#EXTINF:-1,Syfy
+http://pe.shortgod.com/wow/play.php?id=58
+#EXTINF:-1,Caracol
+http://pe.shortgod.com/wow/play.php?id=59
+#EXTINF:-1,TUDN Xtra FHD
+http://pe.shortgod.com/wow/play.php?id=60
+#EXTINF:-1,ATV
+http://pe.shortgod.com/wow/play.php?id=61
+#EXTINF:-1,Univision
+http://pe.shortgod.com/wow/play.php?id=62
+#EXTINF:-1,Unicable
+http://pe.shortgod.com/wow/play.php?id=63
+#EXTINF:-1,Unimas
+http://pe.shortgod.com/wow/play.php?id=64
+#EXTINF:-1,Imagen TV
+http://pe.shortgod.com/wow/play.php?id=65
+#EXTINF:-1,CNN ESPAÑOL
+http://pe.shortgod.com/wow/play.php?id=66
+#EXTINF:-1,RT
+http://pe.shortgod.com/wow/play.php?id=67
+#EXTINF:-1,Canal Sony FHD
+http://pe.shortgod.com/wow/play.php?id=68
+#EXTINF:-1,FX
+http://pe.shortgod.com/wow/play.php?id=70
+#EXTINF:-1,Don Gato y su pandilla 24/7
+http://pe.shortgod.com/wow/play.php?id=71
+#EXTINF:-1,Fox Deportes
+http://pe.shortgod.com/wow/play.php?id=72
+#EXTINF:-1,Golden Plus
+http://pe.shortgod.com/wow/play.php?id=73
+#EXTINF:-1,Golden Edge
+http://pe.shortgod.com/wow/play.php?id=74
+#EXTINF:-1,Golden Premier
+http://pe.shortgod.com/wow/play.php?id=75
+#EXTINF:-1,TNT SERIES
+http://pe.shortgod.com/wow/play.php?id=76
+#EXTINF:-1,Canal Sony
+http://pe.shortgod.com/wow/play.php?id=77
+#EXTINF:-1,AXN
+http://pe.shortgod.com/wow/play.php?id=78
+#EXTINF:-1,Universal Channel
+http://pe.shortgod.com/wow/play.php?id=79
+#EXTINF:-1,Studio Universal
+http://pe.shortgod.com/wow/play.php?id=80
+#EXTINF:-1,Multipremier
+http://pe.shortgod.com/wow/play.php?id=81
+#EXTINF:-1,AMC
+http://pe.shortgod.com/wow/play.php?id=82
+#EXTINF:-1,Paramount Channel
+http://pe.shortgod.com/wow/play.php?id=83
+#EXTINF:-1,Cine Latino
+http://pe.shortgod.com/wow/play.php?id=84
+#EXTINF:-1,Dpelicula Plus
+http://pe.shortgod.com/wow/play.php?id=85
+#EXTINF:-1,Isat
+http://pe.shortgod.com/wow/play.php?id=86
+#EXTINF:-1,MTV
+http://pe.shortgod.com/wow/play.php?id=87
+#EXTINF:-1,MTV Hits
+http://pe.shortgod.com/wow/play.php?id=88
+#EXTINF:-1,HTV
+http://pe.shortgod.com/wow/play.php?id=89
+#EXTINF:-1,Bandamax
+http://pe.shortgod.com/wow/play.php?id=90
+#EXTINF:-1,Comedy Central
+http://pe.shortgod.com/wow/play.php?id=91
+#EXTINF:-1,Nat Geo
+http://pe.shortgod.com/wow/play.php?id=92
+#EXTINF:-1,Mi bella Genio 24/7
+http://pe.shortgod.com/wow/play.php?id=93
+#EXTINF:-1,Animal Planet
+http://pe.shortgod.com/wow/play.php?id=94
+#EXTINF:-1,Discovery Channel
+http://pe.shortgod.com/wow/play.php?id=95
+#EXTINF:-1,Discovery Turbo
+http://pe.shortgod.com/wow/play.php?id=96
+#EXTINF:-1,Discovery HYH
+http://pe.shortgod.com/wow/play.php?id=97
+#EXTINF:-1,ID Investigation
+http://pe.shortgod.com/wow/play.php?id=98
+#EXTINF:-1,Discovery A&E
+http://pe.shortgod.com/wow/play.php?id=99
+#EXTINF:-1,Discovery TLC
+http://pe.shortgod.com/wow/play.php?id=100
+#EXTINF:-1,Discovery Theater
+http://pe.shortgod.com/wow/play.php?id=101
+#EXTINF:-1,Discovery World
+http://pe.shortgod.com/wow/play.php?id=102
+#EXTINF:-1,Everything
+http://pe.shortgod.com/wow/play.php?id=103
+#EXTINF:-1,Lifetime
+http://pe.shortgod.com/wow/play.php?id=104
+#EXTINF:-1,El Gourmet
+http://pe.shortgod.com/wow/play.php?id=106
+#EXTINF:-1,DHE
+http://pe.shortgod.com/wow/play.php?id=107
+#EXTINF:-1,La Familia Peluche 24/7
+http://pe.shortgod.com/wow/play.php?id=108
+#EXTINF:-1,Disney Junior
+http://pe.shortgod.com/wow/play.php?id=109
+#EXTINF:-1,Nick
+http://pe.shortgod.com/wow/play.php?id=110
+#EXTINF:-1,Canal Uno
+http://pe.shortgod.com/wow/play.php?id=111
+#EXTINF:-1,Nick Jr
+http://pe.shortgod.com/wow/play.php?id=112
+#EXTINF:-1,El Chapulin Colorado 24/7
+http://pe.shortgod.com/wow/play.php?id=113
+#EXTINF:-1,Cartoon Network
+http://pe.shortgod.com/wow/play.php?id=114
+#EXTINF:-1,Cartoonito
+http://pe.shortgod.com/wow/play.php?id=115
+#EXTINF:-1,Tooncast
+http://pe.shortgod.com/wow/play.php?id=116
+#EXTINF:-1,Discovery Kids
+http://pe.shortgod.com/wow/play.php?id=117
+#EXTINF:-1,Telemundo Puerto Rico
+http://pe.shortgod.com/wow/play.php?id=118
+#EXTINF:-1,Boing
+http://pe.shortgod.com/wow/play.php?id=119
+#EXTINF:-1,VH1
+http://pe.shortgod.com/wow/play.php?id=120
+#EXTINF:-1,MTV 00s
+http://pe.shortgod.com/wow/play.php?id=121
+#EXTINF:-1,Azteca TV
+http://pe.shortgod.com/wow/play.php?id=122
+#EXTINF:-1,Top Latino
+http://pe.shortgod.com/wow/play.php?id=123
+#EXTINF:-1,Usa: NBA
+http://pe.shortgod.com/wow/play.php?id=125
+#EXTINF:-1,Az click 
+http://pe.shortgod.com/wow/play.php?id=127
+#EXTINF:-1,Alf 24/7
+http://pe.shortgod.com/wow/play.php?id=128
+#EXTINF:-1,Digimon 24/7
+http://pe.shortgod.com/wow/play.php?id=129
+#EXTINF:-1,A3Series
+http://pe.shortgod.com/wow/play.php?id=130
+#EXTINF:-1,Bit Me
+http://pe.shortgod.com/wow/play.php?id=131
+#EXTINF:-1,Once TV
+http://pe.shortgod.com/wow/play.php?id=132
+#EXTINF:-1,Usa: MLB
+http://pe.shortgod.com/wow/play.php?id=134
+#EXTINF:-1,Universo
+http://pe.shortgod.com/wow/play.php?id=136
+#EXTINF:-1,Espn 4 FHD
+http://pe.shortgod.com/wow/play.php?id=137
+#EXTINF:-1,Star Action Sur
+http://pe.shortgod.com/wow/play.php?id=138
+#EXTINF:-1,Discovery Science
+http://pe.shortgod.com/wow/play.php?id=139
+#EXTINF:-1,Gol TV FHD
+http://pe.shortgod.com/wow/play.php?id=142
+#EXTINF:-1,CNN ESPAÑOL FHD
+http://pe.shortgod.com/wow/play.php?id=143
+#EXTINF:-1,South Park 24/7
+http://pe.shortgod.com/wow/play.php?id=146
+#EXTINF:-1,Espn 2 FHD
+http://pe.shortgod.com/wow/play.php?id=148
+#EXTINF:-1,NICK FHD
+http://pe.shortgod.com/wow/play.php?id=149
+#EXTINF:-1,Chavo 24/7
+http://pe.shortgod.com/wow/play.php?id=150
+#EXTINF:-1,NFL Network
+http://pe.shortgod.com/wow/play.php?id=151
+#EXTINF:-1,TCM
+http://pe.shortgod.com/wow/play.php?id=152
+#EXTINF:-1,Willax TV
+http://pe.shortgod.com/wow/play.php?id=153
+#EXTINF:-1,REVOLT MUSIC
+http://pe.shortgod.com/wow/play.php?id=154
+#EXTINF:-1,AMC FHD
+http://pe.shortgod.com/wow/play.php?id=155
+#EXTINF:-1,TNT SPORTS FHD
+http://pe.shortgod.com/wow/play.php?id=156
+#EXTINF:-1,Fox Sports Premium FHD
+http://pe.shortgod.com/wow/play.php?id=157
+#EXTINF:-1,Espn Sur FHD
+http://pe.shortgod.com/wow/play.php?id=158
+#EXTINF:-1,Espn Extra FHD
+http://pe.shortgod.com/wow/play.php?id=159
+#EXTINF:-1,ESPN DEPORTES FHD
+http://pe.shortgod.com/wow/play.php?id=161
+#EXTINF:-1,Golden FHD
+http://pe.shortgod.com/wow/play.php?id=162
+#EXTINF:-1,Cinecanal FHD
+http://pe.shortgod.com/wow/play.php?id=163
+#EXTINF:-1,Global TV Peru
+http://pe.shortgod.com/wow/play.php?id=164
+#EXTINF:-1,ESPN Premium FHD
+http://pe.shortgod.com/wow/play.php?id=165
+#EXTINF:-1,Futurama 24/7
+http://pe.shortgod.com/wow/play.php?id=166
+#EXTINF:-1,Espn 4
+http://pe.shortgod.com/wow/play.php?id=167
+#EXTINF:-1,NFL FHD
+http://pe.shortgod.com/wow/play.php?id=171
+#EXTINF:-1,TNT FHD
+http://pe.shortgod.com/wow/play.php?id=172
+#EXTINF:-1,Espn 3 FHD
+http://pe.shortgod.com/wow/play.php?id=174
+#EXTINF:-1,Syfy FHD
+http://pe.shortgod.com/wow/play.php?id=176
+#EXTINF:-1,Fox Sports FHD
+http://pe.shortgod.com/wow/play.php?id=177
+#EXTINF:-1,Tigo Sports Bolivia
+http://pe.shortgod.com/wow/play.php?id=178
+#EXTINF:-1,Unimas Miami
+http://pe.shortgod.com/wow/play.php?id=179
+#EXTINF:-1,Next TV Paraguay
+http://pe.shortgod.com/wow/play.php?id=181
+#EXTINF:-1,Fox Sports 3 Mexico FHD
+http://pe.shortgod.com/wow/play.php?id=182
+#EXTINF:-1,BOING FHD
+http://pe.shortgod.com/wow/play.php?id=183
+#EXTINF:-1,Canal 26
+http://pe.shortgod.com/wow/play.php?id=184
+#EXTINF:-1,Canal 26 FHD
+http://pe.shortgod.com/wow/play.php?id=186
+#EXTINF:-1,Tele Amazonas
+http://pe.shortgod.com/wow/play.php?id=190
+#EXTINF:-1,Dragon Ball Super 24/7
+http://pe.shortgod.com/wow/play.php?id=191
+#EXTINF:-1,Fox Sports 2 FHD
+http://pe.shortgod.com/wow/play.php?id=192
+#EXTINF:-1,RCN
+http://pe.shortgod.com/wow/play.php?id=193
+#EXTINF:-1,Movistar Deportes
+http://pe.shortgod.com/wow/play.php?id=194
+#EXTINF:-1,Universal Channel FHD
+http://pe.shortgod.com/wow/play.php?id=195
+#EXTINF:-1,Terror 24/7
+http://pe.shortgod.com/wow/play.php?id=196
+#EXTINF:-1,Canal N
+http://pe.shortgod.com/wow/play.php?id=197
+#EXTINF:-1,Az Corazon
+http://pe.shortgod.com/wow/play.php?id=198
+#EXTINF:-1,DAZN F1
+http://pe.shortgod.com/wow/play.php?id=199
+#EXTINF:-1,TUDN Xtra
+http://pe.shortgod.com/wow/play.php?id=200
+#EXTINF:-1,Golden
+http://pe.shortgod.com/wow/play.php?id=202
+#EXTINF:-1,Arg: America TV
+http://pe.shortgod.com/wow/play.php?id=274
+#EXTINF:-1,EC: RTS
+http://pe.shortgod.com/wow/play.php?id=313
+#EXTINF:-1,Peliculas Mexicanas 24/7
+http://pe.shortgod.com/wow/play.php?id=314
+#EXTINF:-1,WWE Network
+http://pe.shortgod.com/wow/play.php?id=315
+#EXTINF:-1,EC: TC
+http://pe.shortgod.com/wow/play.php?id=316
+#EXTINF:-1,EC: RTU
+http://pe.shortgod.com/wow/play.php?id=318
+#EXTINF:-1,Extrema TV
+http://pe.shortgod.com/wow/play.php?id=319
+#EXTINF:-1,Pitufos 24/7
+http://pe.shortgod.com/wow/play.php?id=329
+#EXTINF:-1,GLITZ
+http://pe.shortgod.com/wow/play.php?id=339
+#EXTINF:-1,Warner Bros TV
+http://pe.shortgod.com/wow/play.php?id=341
+#EXTINF:-1,RCN MAS
+http://pe.shortgod.com/wow/play.php?id=351
+#EXTINF:-1,BEIN SPORTS EXTRA FHD
+http://pe.shortgod.com/wow/play.php?id=352
+#EXTINF:-1,Disney Channel
+http://pe.shortgod.com/wow/play.php?id=353
+#EXTINF:-1,Ben 10 24/7
+http://pe.shortgod.com/wow/play.php?id=354
+#EXTINF:-1,Chespirito 24/7
+http://pe.shortgod.com/wow/play.php?id=355
+#EXTINF:-1,Dinosaurios 24/7
+http://pe.shortgod.com/wow/play.php?id=356
+#EXTINF:-1,Coyote Y Corre Caminos 24/7
+http://pe.shortgod.com/wow/play.php?id=357
+#EXTINF:-1,El Principe del rap 24/7
+http://pe.shortgod.com/wow/play.php?id=358
+#EXTINF:-1,Universal Reality FHD
+http://pe.shortgod.com/wow/play.php?id=363
+#EXTINF:-1,Fox Sports Premium
+http://pe.shortgod.com/wow/play.php?id=364
+#EXTINF:-1,Liga 1 Max
+http://pe.shortgod.com/wow/play.php?id=367
+#EXTINF:-1,Dpelicula
+http://pe.shortgod.com/wow/play.php?id=370
+#EXTINF:-1,Universal Premier
+http://pe.shortgod.com/wow/play.php?id=371
+#EXTINF:-1,Universal Cinema
+http://pe.shortgod.com/wow/play.php?id=372
+#EXTINF:-1,DIRECTV SPORTS FHD
+http://pe.shortgod.com/wow/play.php?id=256
+#EXTINF:-1,DISCOVERY FAMILIA
+http://pe.shortgod.com/wow/play.php?id=262
+#EXTINF:-1,TNT SPORTS 3 CHILE
+http://pe.shortgod.com/wow/play.php?id=35
+#EXTINF:-1,Pe: Exitosa FHD
+http://pe.shortgod.com/wow/play.php?id=147
+#EXTINF:-1,DAZN LA LIGA
+http://pe.shortgod.com/wow/play.php?id=361
+#EXTINF:-1,Canal Sony Novelas FHD
+http://pe.shortgod.com/wow/play.php?id=276
+#EXTINF:-1,Todo Noticias
+http://pe.shortgod.com/wow/play.php?id=278
+#EXTINF:-1,Television publica
+http://pe.shortgod.com/wow/play.php?id=320
+#EXTINF:-1,Telemax
+http://pe.shortgod.com/wow/play.php?id=160
+#EXTINF:-1,NBC News
+http://pe.shortgod.com/wow/play.php?id=288
+#EXTINF:-1,DMAX
+http://pe.shortgod.com/wow/play.php?id=303
+#EXTINF:-1,RT Español
+http://pe.shortgod.com/wow/play.php?id=302
+#EXTINF:-1,DW Español
+http://pe.shortgod.com/wow/play.php?id=170
+#EXTINF:-1,Venus Media
+http://pe.shortgod.com/wow/play.php?id=377
+#EXTINF:-1,Ecuavisa
+http://pe.shortgod.com/wow/play.php?id=378
+#EXTINF:-1,ATV MAS
+http://pe.shortgod.com/wow/play.php?id=380
+#EXTINF:-1,TV PERU
+http://pe.shortgod.com/wow/play.php?id=381
+#EXTINF:-1,ADN 40
+http://pe.shortgod.com/wow/play.php?id=382
+#EXTINF:-1,Baby TV
+http://pe.shortgod.com/wow/play.php?id=386
+#EXTINF:-1,Music Top
+http://pe.shortgod.com/wow/play.php?id=387
+#EXTINF:-1,Retro Music TV
+http://pe.shortgod.com/wow/play.php?id=388
+#EXTINF:-1,Discovery en español
+http://pe.shortgod.com/wow/play.php?id=390
+#EXTINF:-1,Canal Sony Novelas
+http://pe.shortgod.com/wow/play.php?id=219
+#EXTINF:-1,Fox Sports 2 Col
+http://pe.shortgod.com/wow/play.php?id=187
+#EXTINF:-1,Miami TV
+http://pe.shortgod.com/wow/play.php?id=391
+#EXTINF:-1,Telemundo California
+http://pe.shortgod.com/wow/play.php?id=347
+#EXTINF:-1,Claro Sports FHD
+http://pe.shortgod.com/wow/play.php?id=294
+#EXTINF:-1,TVC Deportes
+http://pe.shortgod.com/wow/play.php?id=275
+#EXTINF:-1,Los Picapiedras 24/7
+http://pe.shortgod.com/wow/play.php?id=398
+#EXTINF:-1,RCN XTRA FHD
+http://pe.shortgod.com/wow/play.php?id=399
+#EXTINF:-1,RCN XTRA
+http://pe.shortgod.com/wow/play.php?id=400
+#EXTINF:-1,Net TV
+http://pe.shortgod.com/wow/play.php?id=401
+#EXTINF:-1,Canal Sony Cine
+http://pe.shortgod.com/wow/play.php?id=402
+#EXTINF:-1,Canal Sony cine FHD
+http://pe.shortgod.com/wow/play.php?id=403
+#EXTINF:-1,BOB Esponja 24/7
+http://pe.shortgod.com/wow/play.php?id=404
+#EXTINF:-1,MLB Network FHD
+http://pe.shortgod.com/wow/play.php?id=408
+#EXTINF:-1,ESPN COLOMBIA
+http://pe.shortgod.com/wow/play.php?id=409
+#EXTINF:-1,ESPN COLOMBIA FHD
+http://pe.shortgod.com/wow/play.php?id=410
+#EXTINF:-1,ESPN 2 COLOMBIA
+http://pe.shortgod.com/wow/play.php?id=411
+#EXTINF:-1,ESPN 2 COLOMBIA FHD
+http://pe.shortgod.com/wow/play.php?id=412
+#EXTINF:-1,La Rosa De Guadalupe 24/7
+http://pe.shortgod.com/wow/play.php?id=189
+#EXTINF:-1,FOX SPORTS 3 COL
+http://pe.shortgod.com/wow/play.php?id=413
+#EXTINF:-1,Win sports Plus
+http://pe.shortgod.com/wow/play.php?id=344
+#EXTINF:-1,Hustler
+http://pe.shortgod.com/wow/play.php?id=124
+#EXTINF:-1,Telemundo Puerto Rico FHD
+http://pe.shortgod.com/wow/play.php?id=188
+#EXTINF:-1,Telemundo Internacional
+http://pe.shortgod.com/wow/play.php?id=345
+#EXTINF:-1,Tigo sports
+http://pe.shortgod.com/wow/play.php?id=346
