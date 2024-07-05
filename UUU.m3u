@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 xui-id="1383" tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" group-title="⚽COLOMBIA DEPORTES⚽",CO | WIN SPORTS +  FHD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB2gUfZxnrGw6t9GdtwMZ9Eq/ts
-#EXTINF:-1 xui-id="1384" tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  HD" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" group-title="⚽COLOMBIA DEPORTES⚽",CO | WIN SPORTS +  HD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB2nXtCudubkP7bnPEyTrog2/ts
-#EXTINF:-1 xui-id="11572" tvg-id="" tvg-name="MX | F0X $PORTS *PREMIUM HD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="ZONA | FOX SPORTS HD",MX | F0X $PORTS *PREMIUM HD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1vJAkqTtouopGgmqS7xv8Y/ts
-#EXTINF:-1 xui-id="58" tvg-id="directvsports1.ec" tvg-name="LAT | D$P0RTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="ZONA | DSPORTS PREMIUM",LAT | D$P0RTS HD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB0aXLgfMUPeOnXJPLUUPQgZ/ts
-#EXTINF:-1 xui-id="339470" tvg-id="" tvg-name="EVENTO 5 | Copa America USA 2024 | Venezuela Vs Canada | DSports" tvg-logo="https://imgmedia.libero.pe/652x365/libero/original/2024/07/03/6686034461da35021a5debee.webp" group-title="⭐ EVENTOS DEL DIA ⭐",EVENTO 5 | Copa America USA 2024 | Venezuela Vs Canada | DSports
-#EXTINF:-1 xui-id="61" tvg-id="directvsports2.ec" tvg-name="LAT | D$P0RTS 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="ZONA | DSPORTS PREMIUM",LAT | D$P0RTS 2  SD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1jITuejxAOAXxMUTzNnbTL/ts
-#EXTINF:-1 xui-id="60" tvg-id="directvsports2.ec" tvg-name="LAT | D$P0RTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="ZONA | DSPORTS PREMIUM",LAT | D$P0RTS 2 HD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3trvXQ_9pcXD6-clzTQQWy/ts
-#EXTINF:-1 xui-id="59" tvg-id="directvsports1.ec" tvg-name="LAT | D$P0RTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="ZONA | DSPORTS PREMIUM",LAT | D$P0RTS SD
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB20KejXHUe8Z4S3iMiZmnRR/ts
-#EXTINF:-1 xui-id="62" tvg-id="directtvsportplus.ar" tvg-name="LAT | D$P0RTS HD +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="ZONA | DSPORTS PREMIUM",LAT | D$P0RTS HD +
-http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1MifSAaVyvbDysqBReqvJW/ts
 #EXTINF:-1 xui-id="525777" tvg-id="" tvg-name="DSPORTS | 1 ARG ***" tvg-logo="https://i.ibb.co/B6WqVtq/LOGO2.png" group-title="▶️ | DIRECTV PREMIUM",DSPORTS | 1 ARG ***
 https://veotv.site:8443/play/7IzfOLFoam-vI9VbE0ZF8EVgtbX1vuZDti5hdGsUpSk/ts
 #EXTINF:-1 xui-id="525778" tvg-id="" tvg-name="DSPORTS | 1 CH HD" tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png" group-title="▶️ | DIRECTV PREMIUM",DSPORTS | 1 CH HD
