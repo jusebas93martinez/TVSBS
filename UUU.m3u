@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: Espn 1 SD
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN", CO: Espn 1 SD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/931.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: Espn 1 FHD
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN", CO: Espn 1 FHD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: CO: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: ESPN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN", CO: ESPN 1 HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/703653.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: ESPN 2 Sur (MOVIL)
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN", CO: ESPN 2 Sur (MOVIL)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/65826.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: Espn 2 Sur SD
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN", CO: Espn 2 Sur SD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/932.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: ESPN 2 Sur HD
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN", CO: ESPN 2 Sur HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26577.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: Espn 2 Sur FHD
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN", CO: Espn 2 Sur FHD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/945.m3u8
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur SD
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN", CO: ESPN 3 Sur SD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/933.m3u8
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur HD
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN", CO: ESPN 3 Sur HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26578.m3u8
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur Full HD
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN", CO: ESPN 3 Sur Full HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/946.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: Espn Plus Sur
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN", CO: Espn Plus Sur
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/934.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: ESPN Plus Sur HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: ESPN Plus Sur HD
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: ESPN Plus Sur HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN", CO: ESPN Plus Sur HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26579.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur Full HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: Espn Plus Sur Full HD
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur Full HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN", CO: Espn Plus Sur Full HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 1 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN", UEFA: ESPN 1 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN",SP: UEFA: ESPN 2 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN", UEFA: ESPN 2 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 3 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN", UEFA: ESPN 3 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K: ESPN 4K  (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="ESPN",4K: ESPN 4K  (Only Device 4K)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/565798.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN FHD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN FHD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423360.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN FHD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN FHD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423360.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN FHD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN FHD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423360.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN FHD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN FHD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423360.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN FHD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN FHD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN FHD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423360.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN HD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN HD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423361.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN HD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN HD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423361.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN HD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN HD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423361.m3u8
-#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN",SP: ESPN HD (Euro 2024 - Wimbledon)
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="SP: ESPN HD (Euro 2024 - Wimbledon)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN", ESPN HD (Euro 2024 - Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 1 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN", UEFA: ESPN 1 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN",SP: UEFA: ESPN 2 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN", UEFA: ESPN 2 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 3 HD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN", UEFA: ESPN 3 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232316.m3u8
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (OP1)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="ESPN",ESPN 3 (OP1)
 http://legiontv.online:80/Willie/12345/602586
@@ -155,6 +155,8 @@ http://legiontv.online:80/Willie/12345/1069878
 http://legiontv.online:80/Willie/12345/1078932
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Wimbledon)" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
+
+
 #EXTINF:-1 tvg-id="Portal.DIRECTV.Sports(DTVS).co" tvg-name="SP: CO: Directv Sports 1 HD" tvg-logo="http://sl.titanpro.cc:2095/images/IPipT31tafaSLBzN7UqRBbcsYhufwPOfiCE255p4Y9KJwOkuCtPBgeWMkIRWaT5optUDO6wNlATg6aY1xuIj3A.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 1 HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 2 HD
