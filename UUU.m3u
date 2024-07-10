@@ -1,12 +1,10 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 1 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN",SP: UEFA: ESPN 2 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 3 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232316.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K: ESPN 4K  (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="ESPN",4K: ESPN 4K  (Only Device 4K)
@@ -131,3 +129,4 @@ http://legiontv.online:80/Willie/12345/1069878
 http://legiontv.online:80/Willie/12345/1078932
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Wimbledon)" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
+
