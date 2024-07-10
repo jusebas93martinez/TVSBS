@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: Espn 1 SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/931.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="SP: CO: Espn 1 FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: Espn 1 FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/espn.png" group-title=ESPN",SP: CO: ESPN 1 HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/703653.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: ESPN 2 Sur (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/65826.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: Espn 2 Sur SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/932.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: ESPN 2 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: ESPN 2 Sur HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26577.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="SP: CO: Espn 2 Sur FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title=ESPN",SP: CO: Espn 2 Sur FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/945.m3u8
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/933.m3u8
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26578.m3u8
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="SP: CO: ESPN 3 Sur Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title=ESPN",SP: CO: ESPN 3 Sur Full HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/946.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: Espn Plus Sur
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/934.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: ESPN Plus Sur HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: ESPN Plus Sur HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/26579.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-name="SP: CO: Espn Plus Sur Full HD" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title=ESPN",SP: CO: Espn Plus Sur Full HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="ESPN",SP: UEFA: ESPN 1 HD (LAT)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/232314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="ESPN",SP: UEFA: ESPN 2 HD (LAT)
@@ -129,4 +155,55 @@ http://legiontv.online:80/Willie/12345/1069878
 http://legiontv.online:80/Willie/12345/1078932
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Wimbledon)" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
-
+#EXTINF:-1 tvg-id="Portal.DIRECTV.Sports(DTVS).co" tvg-name="SP: CO: Directv Sports 1 HD" tvg-logo="http://sl.titanpro.cc:2095/images/IPipT31tafaSLBzN7UqRBbcsYhufwPOfiCE255p4Y9KJwOkuCtPBgeWMkIRWaT5optUDO6wNlATg6aY1xuIj3A.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 1 HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 2 HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2 HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 2 HD.
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651475.m3u8
+#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="SP: CO: Directv Sports Plus HD" tvg-logo="http://swedtv.vip/logos/Chile%20deportes/DirecTV_Sports.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports Plus HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports Plus HD." tvg-logo="http://swedtv.vip/logos/Chile%20deportes/DirecTV_Sports.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports Plus HD.
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651366.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="SP: CL: Directv Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 1 HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/101873.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="SP: CL: Directv Sports 1 FHD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 1 FHD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/668125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Directv Sports 2 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 2 (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/713759.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="SP: CL: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 2 HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/31164.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="SP: CL: Directv Sports 2 FHD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 2 FHD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423352.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="SP: CL: Directv Sports 2 HD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports 2 HD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Directv Sports + (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports + (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/713760.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports+.cl" tvg-name="SP: CL: Directv Sports + HD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports + HD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423364.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports+.cl" tvg-name="SP: CL: Directv Sports + SD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CL: Directv Sports + SD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (ARG)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports HD (ARG)
+http://legiontv.online:80/Willie/12345/1069827
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports SD (CL)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports SD (CL)
+http://legiontv.online:80/Willie/12345/1069828
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (COL)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports HD (COL)
+http://legiontv.online:80/Willie/12345/1069829
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (PE)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports HD (PE)
+http://legiontv.online:80/Willie/12345/1069830
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (UY)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports HD (UY)
+http://legiontv.online:80/Willie/12345/1069831
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports SD (ARG) (OP2)*" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1J8guK4Ir1PZ8Yx1udhNSo7LqN_49Dg-wLKQKVtoAFNn_DZEhh7XU-Vf8MSE-owUHb6_obtz6pOPHt8p7qVRW8fKSZ8NxVCHPrt7tbnTd20e6I2xvi2NDgZKjhRgDVQE3d3BiRW6lTJ_fQufEvUISQ.png" group-title="DIRECTV SPORT",Directv Sports SD (ARG) (OP2)*
+http://legiontv.online:80/Willie/12345/1069832
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 SD (OP2)*" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkJXPN-kSP_4Z0N2BqJtofweMMRfDH8oSDolGGtY5cb8uUrhmyx8AFY8tQgdwi8eCdj4-vHa2iLKt9UnvPKINiJpZlpCN9i7oflgVyRTYXcdNLN4f68St-x9KNtkaVLToEjhKJXnTmxctUKu5DQ8zvw.png" group-title="DIRECTV SPORT",Directv Sports 2 SD (OP2)*
+http://legiontv.online:80/Willie/12345/1069833
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkJXPN-kSP_4Z0N2BqJtofweMMRfDH8oSDolGGtY5cb8uUrhmyx8AFY8tQgdwi8eCdj4-vHa2iLKt9UnvPKINiJpZlpCN9i7oflgVyRTYXcdNLN4f68St-x9KNtkaVLToEjhKJXnTmxctUKu5DQ8zvw.png" group-title="DIRECTV SPORT",Directv Sports 2 HD
+http://legiontv.online:80/Willie/12345/1069834
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Fight" tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ4o3ApOf5JMz-aN7vyjMUCXF7wZk_IolT9OweeVmTZveuMByh8eF_hh-YukUTdecBNtHcuNG7mgXDbjVPzbJOglRcIBdrwHnpWDZLkHD26t7.png" group-title="DIRECTV SPORT",Directv Sports Fight
+http://legiontv.online:80/Willie/12345/1069835
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Motors HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOxhubPDvzgo88OnuyOsLQ3JPfRXkjzS1coHfqQRYq95MEbwrXVuLA3NktQ3wbymtMpA&usqp=CAU" group-title="DIRECTV SPORT",Directv Sports Motors HD
+http://legiontv.online:80/Willie/12345/1069836
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus SD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJ09XIyuXBO-e8bVWnV9Uf5X_hBCVhybQ_Q8AJs2iOJs5mVoO3zTEhyxDeP0ARu6BAqY-EWIs3xVxtzVtzSGLU4Ujd1hUeiHn3bGh0OixGy9s8b66LujZQQA8w0VIkVfDru_24epA5LYnJss7_uAO7A.png" group-title="DIRECTV SPORT",Directv Sports Plus SD
+http://legiontv.online:80/Willie/12345/1069837
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus HD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJ09XIyuXBO-e8bVWnV9Uf5X_hBCVhybQ_Q8AJs2iOJs5mVoO3zTEhyxDeP0ARu6BAqY-EWIs3xVxtzVtzSGLU4Ujd1hUeiHn3bGh0OixGy9s8b66LujZQQA8w0VIkVfDru_24epA5LYnJss7_uAO7A.png" group-title="DIRECTV SPORT",Directv Sports Plus HD
+http://legiontv.online:80/Willie/12345/1069838
