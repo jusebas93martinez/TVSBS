@@ -155,6 +155,8 @@ http://legiontv.online:80/Willie/12345/1069878
 http://legiontv.online:80/Willie/12345/1078932
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Wimbledon)" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
+
+
 #EXTINF:-1 tvg-id="Portal.DIRECTV.Sports(DTVS).co" tvg-name="SP: CO: Directv Sports 1 HD" tvg-logo="http://sl.titanpro.cc:2095/images/IPipT31tafaSLBzN7UqRBbcsYhufwPOfiCE255p4Y9KJwOkuCtPBgeWMkIRWaT5optUDO6wNlATg6aY1xuIj3A.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 1 HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 2 HD
@@ -207,3 +209,39 @@ http://legiontv.online:80/Willie/12345/1069836
 http://legiontv.online:80/Willie/12345/1069837
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus HD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJ09XIyuXBO-e8bVWnV9Uf5X_hBCVhybQ_Q8AJs2iOJs5mVoO3zTEhyxDeP0ARu6BAqY-EWIs3xVxtzVtzSGLU4Ujd1hUeiHn3bGh0OixGy9s8b66LujZQQA8w0VIkVfDru_24epA5LYnJss7_uAO7A.png" group-title="DIRECTV SPORT",Directv Sports Plus HD
 http://legiontv.online:80/Willie/12345/1069838
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="SP: CO: Win Sports (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN +",SP: CO: Win Sports (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/102714.m3u8
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="SP: CO: Win Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN +",SP: CO: Win Sports SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/80906.m3u8
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="SP: CO: Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN +",SP: CO: Win Sports HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/11130.m3u8
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="SP: CO: Win Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN +",SP: CO: Win Sports FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/2030.m3u8
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="SP: CO: Win Sports+ SD" tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="WIN +",SP: CO: Win Sports+ SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/80905.m3u8
+#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="SP: CO: Win Sports+ HD" tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="WIN +",SP: CO: Win Sports+ HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/80904.m3u8
+#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="SP: CO: Win Sports+ FHD" tvg-logo="http://sl.titanpro.cc:2095/images/YGaHha-umuh9TmSi2aU5giyreRnKlI68fWKbPokMxxAVUYt9bUUEnQFNqwTe1_ZAJIaWMAvF0JH6qabu7n007lQGSVzPeu46j0jyoHEDIGFfirC8Sw6VFT911WkPj7cVrUQmzzoJf19JpYnNAxlp6RT04EDFd6thKnADoKYOLGg.png" group-title="WIN +",SP: CO: Win Sports+ FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/371105.m3u8
+#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="SP: CO: Win Sports+ SD (Fibra)" tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="WIN +",SP: CO: Win Sports+ SD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423381.m3u8
+#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="SP: CO: Win Sports+ FHD (Fibra)" tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="WIN +",SP: CO: Win Sports+ FHD (Fibra)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/423380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP1" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP1
+http://legiontv.online:80/Willie/12345/1078707
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP2" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP2
+http://legiontv.online:80/Willie/12345/1078708
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP3" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP3
+http://legiontv.online:80/Willie/12345/1078709
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP4" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP4
+http://legiontv.online:80/Willie/12345/1078710
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP5" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP5
+http://legiontv.online:80/Willie/12345/1078711
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + OP6" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQLGGbWl9Gs8eho4l_VfwFM.png" group-title="WIN +",Win Sports + OP6
+http://legiontv.online:80/Willie/12345/1078712
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports OP1" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsfNP8_EHrE8a4BfRC2RyJ-c.png" group-title="WIN +",Win Sports OP1
+http://legiontv.online:80/Willie/12345/1078713
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports OP2" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsfNP8_EHrE8a4BfRC2RyJ-c.png" group-title="WIN +",Win Sports OP2
+http://legiontv.online:80/Willie/12345/1078714
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports OP3" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsfNP8_EHrE8a4BfRC2RyJ-c.png" group-title="WIN +",Win Sports OP3
+http://legiontv.online:80/Willie/12345/1078715
