@@ -155,6 +155,8 @@ http://legiontv.online:80/Willie/12345/1069878
 http://legiontv.online:80/Willie/12345/1078932
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Wimbledon)" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="ESPN",ESPN 3 (Wimbledon)
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/747921.m3u8
+
+
 #EXTINF:-1 tvg-id="Portal.DIRECTV.Sports(DTVS).co" tvg-name="SP: CO: Directv Sports 1 HD" tvg-logo="http://sl.titanpro.cc:2095/images/IPipT31tafaSLBzN7UqRBbcsYhufwPOfiCE255p4Y9KJwOkuCtPBgeWMkIRWaT5optUDO6wNlATg6aY1xuIj3A.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 1 HD
 http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV SPORT",SP: CO: Directv Sports 2 HD
@@ -243,3 +245,59 @@ http://legiontv.online:80/Willie/12345/1078713
 http://legiontv.online:80/Willie/12345/1078714
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports OP3" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsfNP8_EHrE8a4BfRC2RyJ-c.png" group-title="WIN +",Win Sports OP3
 http://legiontv.online:80/Willie/12345/1078715
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="WIN +",Colombia - Win Sports
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports +" tvg-logo="https://bolavip.com/__export/1583187794658/sites/bolavip/img/2020/03/02/win_sports_crop1583187794108.png_242310155.png" group-title="WIN +",Colombia - Win Sports +
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/744165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="CARACOL",Colombia - Caracol
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD ( COPA AMERICA )" tvg-logo="" group-title="CARACOL",CARACOL HD ( COPA AMERICA )
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/745428.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="CO: Caracol Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol Int
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/41153.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="CO: Caracol Int FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol Int FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/265301.m3u8
+#EXTINF:-1 tvg-id="CARACOL.co" tvg-name="CO: Caracol (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/65066.m3u8
+#EXTINF:-1 tvg-id="CARACOL.co" tvg-name="CO: Caracol SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/15106.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO: Caracol HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol HD.
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651506.m3u8
+#EXTINF:-1 tvg-id="CARACOL.co" tvg-name="CO: Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1618.m3u8
+#EXTINF:-1 tvg-id="CARACOL.co" tvg-name="CO: Caracol FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="CARACOL",CO: Caracol FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1619.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="SP: CO: Caracol HD2" tvg-logo="" group-title="CARACOL",SP: CO: Caracol HD2
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/526116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="CARACOL",Colombia - Caracol
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651313.m3u8
+#EXTINF:-1 tvg-id="CARA" tvg-name="CARACOL (OP1)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtdFdkD60ZDpouAUihy-wNowjtcvGRvOgeTGXv20qZ4jLQIovI0omNUtmWTJIfq2u0y1x8h-uaOBSRoRxmowWiqA.png" group-title="CARACOL",CARACOL (OP1)
+http://legiontv.online:80/Willie/12345/602817
+#EXTINF:-1 tvg-id="CARAHD" tvg-name="CARACOL (OP2)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtdFdkD60ZDpouAUihy-wNowjtcvGRvOgeTGXv20qZ4jLQIovI0omNUtmWTJIfq2u0y1x8h-uaOBSRoRxmowWiqA.png" group-title="CARACOL",CARACOL (OP2)
+http://legiontv.online:80/Willie/12345/602818
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="RCN",Colombia - RCN
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651314.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN (MOVIL)" tvg-logo="https://iconape.com/wp-content/files/rb/285614/svg/rcn-television-logo-logo-icon-png-svg.png" group-title="RCN",CO: RCN (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/65743.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN SD" tvg-logo="https://iconape.com/wp-content/files/rb/285614/svg/rcn-television-logo-logo-icon-png-svg.png" group-title="RCN",CO: RCN SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/15107.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN HD" tvg-logo="https://iconape.com/wp-content/files/rb/285614/svg/rcn-television-logo-logo-icon-png-svg.png" group-title="RCN",CO: RCN HD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1627.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN FHD" tvg-logo="https://iconape.com/wp-content/files/rb/285614/svg/rcn-television-logo-logo-icon-png-svg.png" group-title="RCN",CO: RCN FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/1628.m3u8
+#EXTINF:-1 tvg-id="RCN.Novelas.co" tvg-name="CO: RCN Novelas (MOVIL)" tvg-logo="http://swedtv.vip/logos/Colombia/RCN_Novelas.png" group-title="RCN",CO: RCN Novelas (MOVIL)
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/65744.m3u8
+#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-name="CO: RCN Novelas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Rcnnovelas2015.png" group-title="RCN",CO: RCN Novelas SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/107089.m3u8
+#EXTINF:-1 tvg-id="CO: RCN NUESTRA TELE" tvg-name="CO: RCN Nuestra Tele Int. SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RCNNuestraTele2018.png" group-title="RCN",CO: RCN Nuestra Tele Int. SD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/107090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra Tele Int. FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/800px-RCN_Nuestra_Tele_logo.svg.png" group-title="RCN",CO: RCN Nuestra Tele Int. FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/60585.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="CO: RCN Internacional FHD" tvg-logo="https://iconape.com/wp-content/files/rb/285614/svg/rcn-television-logo-logo-icon-png-svg.png" group-title="RCN",CO: RCN Internacional FHD
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/7341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="RCN",Colombia - RCN
+http://sl.titanpro.cc:2095/WillyLerman/T9WL42xBryaa/651314.m3u8
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN (OP1)" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPdmZH2AlBoi3A3XkBG68oYw9U9necpdNsSG7yO2gzXnN.png" group-title="LRCN",RCN (OP1)
+http://legiontv.online:80/Willie/12345/602760
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="RCN (OP2)" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPdmZH2AlBoi3A3XkBG68oYw9U9necpdNsSG7yO2gzXnN.png" group-title="LRCN",RCN (OP2)
+http://legiontv.online:80/Willie/12345/602761
